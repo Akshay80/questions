@@ -1,0 +1,35 @@
+What is Promise Chaining Method?
+
+What is Async/Await?
+
+What is Prototype in Javascript?
+
+How to loop in elements of Objects? [Object.keys, Object.value]
+
+What is Promise.all?
+
+What is Ref?
+
+What are PropTypes?
+
+console.log(3>2>1) what is the output ? [false due to (3>2) is converted into true and (true<1) will lead it to false]
+
+console.log(1+2 === 3) what is the output?  [true]
+
+console.log(0.1 + 0.2 === 0.3) what is the output? [false in case of 0.3, 0.6, 0.9 due to addition sum in 0.30000000004 something like this]
+
+// New Questions added on Sep 7, 2021
+
+What is Shallow Copy and Deep Copy?
+
+What is Callback Hell? // When we write a nested callback functions one inside another and it started to make a hierarchy triangle so this whole process is known as Callback Hell because one callback function will be depending upon another callback function.
+
+How to do componentWillUnmount in functional Component? // We can achieve React lifecycles in functional Components using useEffect hook.
+
+What is lexical scope in JS? // a variable defined outside a function can be accessible inside another function defined after the variable declaration
+
+Difference between Export and Export Default? // Exports are also known as Named Exports. In Export, Multiple export can be done but when we import we have to use same name while we are importing it. And In, Export Default we can define export default only once and while importing we can import with any name. 
+
+What is localStorage and SessionStorage? //LocalStorage stores data permanently onto the browser but in SessionStorage the data is saved only till the time our browser is open or for a particular session.
+
+
